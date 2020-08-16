@@ -2,7 +2,7 @@ package krakend
 
 import (
 	"github.com/devopsfaith/krakend-rss"
-	"github.com/devopsfaith/krakend-xml"
+	"github.com/sqrobertoalmeida/krakend-xml"
 	ginxml "github.com/devopsfaith/krakend-xml/gin"
 	"github.com/devopsfaith/krakend/router/gin"
 )
